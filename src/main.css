@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800;900&display=swap');
+
+body {
+    background-image: url("../img/bg.jpg");
+    background-size: contain;
+    max-width: 100vw;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 0.95);
+    margin-top: 70px;
+}
+
+#description {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.9);
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#whiteBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#survey-form {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 70px;
+}
+
+label, #labelQuestion {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    color: #1e3580;
+    margin-bottom: 5px;
+}
+
+#addInfo {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+#labelAnswer {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+}
+
+#comment {
+    width: 100%;
+}
+
+#submit {
+    width: 100%;
+    background-color: #1e3580;
+    color: rgba(255, 255, 255);
+    border: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
