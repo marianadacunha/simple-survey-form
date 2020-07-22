@@ -8,7 +8,7 @@ This page was build using HTMLL, CSS and Bootstrap.
 
 ### Objective
 
-Build a page that is functionally similar to this <a href="https://codepen.io/freeCodeCamp/full/VPaoNP">this</a>.</br>.
+Build a page that is functionally similar to this <a href="https://codepen.io/freeCodeCamp/full/VPaoNP">this</a>.</br>
 
 ### Preview
 
