@@ -6,11 +6,11 @@ Repository for the code of a survey form made from scratch, a challenge proposed
 
 This page was build using HTMLL, CSS and Bootstrap.
 
-### Objective
+# Objective
 
 Build a page that is functionally similar to this <a href="https://codepen.io/freeCodeCamp/full/VPaoNP">this</a>.</br>
 
-### Preview
+# Preview
 
 You can see the live site clicking <a href="https://marianadacunha.github.io/simple-survey-form/">here</a>.</br>
 
